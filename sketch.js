@@ -1,7 +1,7 @@
 var padding = 20;
 var speed = 0.2; // 0.5 second
 
-var w_width = 500;
+var w_width = 800;
 const rows = 6;
 const cols = 6;
 
