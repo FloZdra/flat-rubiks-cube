@@ -1,3 +1,3 @@
 # flat-rubiks-cube
 
-Cool game.
+Cool game. : https://flozdra.github.io/flat-rubiks-cube/
