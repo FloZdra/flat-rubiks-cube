@@ -21,7 +21,7 @@ class Cube {
     const c = color(this.color);
     fill(c);
     noStroke();
-    rect(this.x, this.y, spacing -  padding, spacing -  padding, 8)
+    rect(this.x, this.y, spacing -  padding, spacing -  padding, 16)
   }
   
   move(dir) {

@@ -1,4 +1,4 @@
-var padding = 20;
+var padding = 30;
 var speed = 0.2; // 0.5 second
 
 var w_width = 800;
